@@ -1,0 +1,4 @@
+[package]
+name = "koans"
+version = "0.1.0"
+authors = ["Jason Duffy <jasonsduffy@gmail.com>"]
